@@ -1,2 +1,2 @@
-# churrascometro
+# Churrascômetro
 Calcule seu churrascão!
